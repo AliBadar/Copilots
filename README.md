@@ -1,4 +1,4 @@
-# CurrencyConvertApp
+# Goally
 Copilots App - App consuming a [Copilots Api](https://devapi.getgoally.com/v1/api/devices/copilot-list/) to display the List of Copilots and its details with the Activities.
 
 
